@@ -1,2 +1,2 @@
 # CS50-Pset2-Caesar
-Use Caesar cipher to encrypt and decrypt messages. Written in C.
+Please use caesar.c from this brunch to make modifictions, should you decide to do so
